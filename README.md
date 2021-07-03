@@ -16,7 +16,12 @@ Dataset: [Source Link](http://bit.ly/IPAdvertisingData)
     + Perform  univariate and bivariate analysis.
     + From your insights provide a conclusion and recommendation.
    
+# Tools
++ R
++ Rstudio
++ RPubs
 
+RPubs publication [link](https://rpubs.com/MoffatKirui/787847)
 
 # Author(s) information
 Moffat Kirui
